@@ -37,3 +37,15 @@ Solve 150+ LeetCode problems and strengthen problem-solving and algorithmic thin
 | Easy       | X |
 | Medium     | X |
 | Hard       | X |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kushagraacodes/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kushagraacodes/Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
