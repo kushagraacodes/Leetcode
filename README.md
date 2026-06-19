@@ -48,4 +48,8 @@ Solve 150+ LeetCode problems and strengthen problem-solving and algorithmic thin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushagraacodes/Leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/kushagraacodes/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
