@@ -5,7 +5,7 @@ This repository contains my solutions to LeetCode problems solved as part of my 
 ## Profile
 
 - Name: Kushagra Ojha
-- LeetCode: https://leetcode.com/u/YOUR_USERNAME/
+- LeetCode: https://leetcode.com/u/kushagraacodes/
 - GitHub: https://github.com/kushagraacodes
 
 ## Languages Used
