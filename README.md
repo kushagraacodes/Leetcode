@@ -49,13 +49,16 @@ Solve 150+ LeetCode problems and strengthen problem-solving and algorithmic thin
 | ------- |
 | [0001-two-sum](https://github.com/kushagraacodes/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/kushagraacodes/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/kushagraacodes/Leetcode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kushagraacodes/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kushagraacodes/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/kushagraacodes/Leetcode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kushagraacodes/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/kushagraacodes/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
