@@ -44,6 +44,7 @@ Solve 150+ LeetCode problems and strengthen problem-solving and algorithmic thin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushagraacodes/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/kushagraacodes/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,9 @@ Solve 150+ LeetCode problems and strengthen problem-solving and algorithmic thin
 | ------- |
 | [0012-integer-to-roman](https://github.com/kushagraacodes/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kushagraacodes/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/kushagraacodes/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kushagraacodes/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
